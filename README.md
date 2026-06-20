@@ -62,7 +62,12 @@ Want to skip the code and just play?
 * **Engine:** Unity (2021.3.9f1)
 * **Language:** C#
 * **Course:** Unity Junior Programmer Pathway (Submission: Programming Theory in Action)
-* **Assets:** [Orc](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/toon-rts-units-orcs-demo-101359), [Skeleton](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/toon-rts-units-undead-demo-95640), [Sword](https://assetstore.unity.com/packages/3d/props/weapons/free-low-poly-swords-rpg-weapons-198166), [Melee Animations](https://assetstore.unity.com/packages/3d/animations/human-melee-animations-free-165785), [First-Aid Set](https://assetstore.unity.com/packages/3d/props/first-aid-set-160073)
+* **Assets:**
+  * [Orc](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/toon-rts-units-orcs-demo-101359)
+  * [Skeleton](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/toon-rts-units-undead-demo-95640)
+  * [Sword](https://assetstore.unity.com/packages/3d/props/weapons/free-low-poly-swords-rpg-weapons-198166)
+  * [Melee Animations](https://assetstore.unity.com/packages/3d/animations/human-melee-animations-free-165785)
+  * [First-Aid Set](https://assetstore.unity.com/packages/3d/props/first-aid-set-160073)
 ---
 
 **2023**
