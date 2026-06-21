@@ -59,8 +59,8 @@ Want to skip the code and just play?
 
 ## 🛠️ Built With
 
-* **Engine:** Unity (2021.3.9f1)
-* **Language:** C#
+* **Game Engine:** Unity (2021.3.9f1)
+* **Scripting Language:** C#
 * **Course:** Unity Junior Programmer Pathway (Submission: Programming Theory in Action)
 * **Assets Used:**
   * [Orc](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/toon-rts-units-orcs-demo-101359)
