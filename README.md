@@ -11,9 +11,9 @@ Want to skip the code and just play?
 
 1. **[Download the Repository](https://github.com/Frext/Programming-Theory-repo/archive/refs/heads/main.zip)**
 
-3. Extract the ZIP file.
+2. Extract the ZIP file.
 
-4. Open the **`BuildWindows`** folder and run the game executable named **`Programming Theory Project.exe`**.
+3. Open the **`BuildWindows`** folder and launch **`Programming Theory Project.exe`**.
 
 ---
 
