@@ -9,7 +9,7 @@ It was built in Unity to demonstrate the four pillars of Object-Oriented Program
 
 Want to skip the code and just play? 
 
-1. **[Download the Repository](https://github.com/Frext/Programming-Theory-repo/archive/refs/heads/main.zip)**
+1. **[Download the Repository](https://github.com/Frext/Programming-Theory/archive/refs/heads/main.zip)**
 
 2. Extract the ZIP file.
 
